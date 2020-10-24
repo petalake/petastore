@@ -44,7 +44,7 @@ public class DOMParser {
 							String nodeName2 = ele2.getNodeName();
 							System.out.println("node name2: " + nodeName2);
 							System.out.println("node attribute2: " + ele2.getAttribute("num"));
-						}
+						} 
 					}
 				}
 			}
